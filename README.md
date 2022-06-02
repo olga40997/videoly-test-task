@@ -1,7 +1,7 @@
 # Videoly test task
 Videoly test task is a small test suite for testing lamoda's page
 
-##Installation
+## Installation
 
 [Nodejs](https://nodejs.org/en/) should be installed on computer
 
